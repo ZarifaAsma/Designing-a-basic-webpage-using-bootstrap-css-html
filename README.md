@@ -1,5 +1,6 @@
 # Designing-a-basic-webpage-using-bootstrap-css-html
 Designing a basic webpage using bootstrap ,css ,html 
+****OPEN THE exam.html in the webpage folder with sublime text to see the code**** 
 To build a responsive web document using HTML, CSS and Bootstrap 4 technologies according to the design sketch
 Technologies to use
 • Html 5
